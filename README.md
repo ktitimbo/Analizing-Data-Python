@@ -1,2 +1,3 @@
 # Analizing-Data-Python
-EdX Course: IBM DA0101EN
+EdX Course: Analyzing Data with Python
+IBM DA0101EN
